@@ -1,44 +1,44 @@
-#نضام فندق  
+# Hotel System
 
-نضام متكامل لاداره فندق
-
----
-
-## 📌 نبذة عن المشروع
-نضام اداره فندق نضام مميز وسهل الاستخدام  
-
+An integrated hotel management system
 
 ---
 
-## 💻 التقنيات المستخدمة
+## 📌 Project Overview
+A hotel management system that is simple, easy to use, and well-designed.
+
+---
+
+## 💻 Technologies Used
 - HTML
 - CSS
 - JavaScript
-- php
-- my sql
----
-
-## 🎨 المميزات
-- تصميم عصري 
-- واجهة سهلة الاستخدام
-- متوافق مع الجوال والكمبيوتر
-- سرعة في الأداء
+- PHP
+- MySQL
 
 ---
 
-## 👨‍💻 البرمجة والتصميم
-**محمد مجيب بشر**
+## 🎨 Features
+- Modern design
+- Easy-to-use interface
+- Responsive for mobile and desktop
+- Fast performance
 
 ---
 
-## 📞 التواصل
-- 967+ 772062777
-- 967+ 782807337
+## 👨‍💻 Development & Design
+**Mohammed Mujeeb Bishr**
 
 ---
 
-## اسم المستخدم 
-mohammed 
+## 📞 Contact
+- +967 772062777
+- +967 782807337
 
-## كلمة المرور 
+---
+
+## Username
+mohammed
+
+## Password
 123
